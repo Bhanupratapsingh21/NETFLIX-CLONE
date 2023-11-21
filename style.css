@@ -580,21 +580,19 @@ header{
     #tvline{
         text-align: center;
         color: rgb(255, 255, 255);
-        font-size: 39px;
-        width: fit-content;
-        margin-left: 20px;
+        font-size: 30px;
+        width: 70vw;
         font-weight:900;
     }
     #tvlinet{
         text-align: center;
         color: rgb(255, 255, 255);
         font-size: 39px;
-        width: fit-content;
-        margin-left: 20px;
+        width: 70vw;
         font-weight:900;
     }
     #tvline2{
-        width: fit-content;
+        width: 70vw;
         text-align: center;
         font-size: 18px;
         color: white;
@@ -746,8 +744,8 @@ header{
     }
     #tvline{
         font-family: sans-serif;
-        width:fit-content;
-        margin-left: 0%;
+        width:70vw;
+        margin-left: 7.5%;
         margin-right: 0%;
         text-align: center;
         color: rgb(255, 255, 255);
@@ -756,7 +754,6 @@ header{
     }
     #tvlinet{
         font-family: sans-serif;
-        width:fit-content;
         margin-left: 17px;
         margin-right: 0%;
         text-align: center;
@@ -773,6 +770,7 @@ header{
         font-weight:900;
     }
     #watchline2{
+        width: 70vw;
         font-weight: 100;
         font-family: sans-serif;
         text-align: center;
